@@ -28,15 +28,15 @@
   },
   "dependencies": {
     "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "17.0.2",
     "@commitlint/config-conventional": "17.0.2",
     "@types/node": "16.11.36",
-    "@types/react": "18.0.12",
-    "@types/react-dom": "18.0.5",
+    "@types/react": "18.2.69",
+    "@types/react-dom": "18.2.22",
     "@typescript-eslint/eslint-plugin": "5.27.0",
     "@typescript-eslint/parser": "5.27.0",
     "commitizen": "4.2.4",
